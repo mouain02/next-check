@@ -4,7 +4,7 @@ export default function Navbar() {
   return (
     <nav className="bg-white shadow-md py-4">
       <div className="container mx-auto flex justify-between items-center px-4">
-        <h1 className="text-2xl font-bold">Acef Laatiri</h1>
+        <h1 className="text-2xl font-bold">Aloui Moueyn</h1>
         <ul className="flex space-x-6">
           <li>
             <Link href="/" className="hover:text-blue-500">

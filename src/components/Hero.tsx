@@ -12,7 +12,7 @@ export default function Hero() {
           className="rounded-full object-cover"
         />
       </div>
-      <h1 className="text-4xl font-bold mt-4">Acef Laatiri</h1>
+      <h1 className="text-4xl font-bold mt-4">Aloui Moueyn</h1>
       <p className="text-xl text-gray-600 mt-2">
         Passionate Full-Stack Developer | Building modern web apps with Next.js, React & Tailwind CSS | Always learning and creating impactful solutions
       </p>
